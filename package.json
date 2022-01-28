@@ -1,0 +1,23 @@
+{
+  "name": "my-first-extension",
+  "version": "1.0.0",
+  "description": "Hello World example extension for VS code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smalldevshima/my-first-extension.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smalldevshima/my-first-extension/issues"
+  },
+  "homepage": "https://github.com/smalldevshima/my-first-extension#readme",
+  "devDependencies": {
+    "generator-code": "^1.6.6",
+    "yo": "^4.3.0"
+  }
+}
